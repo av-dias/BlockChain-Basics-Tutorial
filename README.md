@@ -76,9 +76,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[contributors-url]: https://github.com/avdias-sys/BlockChain/graphs/contributors
-[forks-url]: https://github.com/avdias-sys/BlockChain/network/members
-[issues-url]: https://github.com/avdias-sys/BlockChain/issues
-[license-url]: https://github.com/avdias-sys/BlockChain/blob/main/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/álison-dias-1a0b88214
-[product-screenshot]: images/screenshot.png
