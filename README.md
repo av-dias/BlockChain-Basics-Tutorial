@@ -38,6 +38,18 @@ Install truffle
 npm install -g truffle
 ```
 
+Check truffle version
+
+```sh
+truffle version
+```
+
+If truffle is not recognized use the following command
+
+```sh
+./node_modules/.bin/truffle init
+```
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
