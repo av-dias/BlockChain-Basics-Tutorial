@@ -36,10 +36,8 @@ Blockchain basic introduction.
 
 Install npm dependencies
 
-- install
-  ```sh
-  npm install
-  ```
+sh
+npm install
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
