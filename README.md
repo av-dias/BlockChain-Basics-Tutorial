@@ -5,7 +5,7 @@
 
 ## About The Project: BlockChain Introduction
 
-Blockchain basic introduction.
+Blockchain basic introduction. This app was developed while doing a tutorial.
 
 <!-- GETTING STARTED -->
 
